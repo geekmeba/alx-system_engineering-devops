@@ -1,2 +1,2 @@
 #!/bin/bash
- LC_COLLATE=en_US ls -1va -f -m 
+ LC_COLLATE=en_US ls -1vap -m 

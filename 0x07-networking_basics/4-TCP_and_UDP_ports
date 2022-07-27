@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script displays the listening sockets and the PID with name of the program
+ 
